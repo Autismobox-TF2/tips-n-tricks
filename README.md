@@ -38,3 +38,6 @@ Kingo's Balance mod: https://ktbm.kingo.tf/archive/
 
 Typical Colors 2 (Roblox game) https://typicalcolors2.fandom.com/wiki/Weapons
 
+
+## Balance testing tips
+The console command `cl_showpos 1` shows your speed, in hammer units, as 'vel'(ocity). Check standard tf2 speeds here: https://developer.valvesoftware.com/wiki/Team_Fortress_2/Mapper%27s_Reference
